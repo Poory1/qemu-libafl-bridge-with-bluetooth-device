@@ -10,7 +10,7 @@
  */
 
 #include "qemu/osdep.h"
-
+#include "hw/virtio/virtio-pci.h"
 #include "hw/virtio/virtio-bt.h"
 #include "qapi/error.h"
 #include "qemu/module.h"
